@@ -1,0 +1,2 @@
+1. Ability to enable Strong encryption if the user has installed the unlimited strength JCE stuff
+2. Asymmetric encryption option using public/private key pairs.  This will require a key management service to properly function

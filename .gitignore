@@ -1,0 +1,8 @@
+*.png
+bin
+FileDrop
+aescrypt-java-3.2
+jasypt-1.9.0
+.gitignore.swp
+IconSource.txt
+
