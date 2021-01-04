@@ -209,9 +209,9 @@ public class SecretKeeperUI extends javax.swing.JFrame {
             public void mousePressed(java.awt.event.MouseEvent evt) {
                 outputTextAreaMousePressed(evt);
             }
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                outputTextAreaMouseClicked(evt);
-            }
+//            public void mouseClicked(java.awt.event.MouseEvent evt) {
+//                outputTextAreaMouseClicked(evt);
+//            }
         });
         jScrollPane2.setViewportView(outputTextArea);
 
